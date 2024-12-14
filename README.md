@@ -1,0 +1,1 @@
+This example demonstrates a common error in TypeScript where a function is called with an argument of an incorrect type. The function `greeter` expects a single string argument, but it's called with an array of strings. The solution shows how to modify the function or the way it is called to fix the error.
